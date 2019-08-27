@@ -38,27 +38,50 @@ Los iconos deben de ser de la siguiente librería: [Weather Icons - 222 font ico
 
 Cambiando la lista oficial de OpenWeather por la siguiente relación:
 [Weather Conditions - OpenWeatherMap](https://openweathermap.org/weather-conditions)
-Day icons
-01d.png  clear sky ---> wi-day-sunny
-02d.png  few clouds ---> wi-day-cloudy
-03d.png  scattered clouds ---> wi-cloud
-04d.png  broken clouds ---> wi-cloudy
-09d.png  shower rain ---> wi-showers
-10d.png  rain ---> wi-rain
-11d.png  thunderstorm ---> wi-thunderstorm
-13d.png  snow ---> wi-snowflake-cold
-50d.png  mist ---> wi-dust
 
-Night icons
-01n.png  	clear sky ---> wi-night-clear
-02n.png  	few clouds --->	wi-night-alt-cloudy		
-03n.png  	scattered clouds ---> wi-cloud
-04n.png  	broken clouds ---> wi-cloudy
-09n.png  	shower rain ---> wi-showers
-10n.png  	rain ---> wi-rain
-11n.png  	thunderstorm ---> wi-thunderstorm
-13n.png  	snow ---> wi-snowflake-cold
-50n.png  	mist ---> wi-dust
+
+**Day icons**
+
+01d.png  clear sky => wi-day-sunny
+
+02d.png  few clouds => wi-day-cloudy
+
+03d.png  scattered clouds => wi-cloud
+
+04d.png  broken clouds => wi-cloudy
+
+09d.png  shower rain => wi-showers
+
+10d.png  rain => wi-rain
+
+11d.png  thunderstorm => wi-thunderstorm
+
+13d.png  snow => wi-snowflake-cold
+
+50d.png  mist => wi-dust
+
+---
+
+**Night icons**
+
+01n.png  	clear sky => wi-night-clear
+
+02n.png  	few clouds =>	wi-night-alt-cloudy		
+
+03n.png  	scattered clouds => wi-cloud
+
+04n.png  	broken clouds => wi-cloudy
+
+09n.png  	shower rain => wi-showers
+
+10n.png  	rain => wi-rain
+
+11n.png  	thunderstorm => wi-thunderstorm
+
+13n.png  	snow => wi-snowflake-cold
+
+50n.png  	mist => wi-dust
+
 
 Visualmente debemos poder intercambiar mediante un toggle entre un theme light y otro dark.
 
