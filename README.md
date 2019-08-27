@@ -1,4 +1,7 @@
 # Prueba Técnica - JS full Stack
+
+![Weather App](https://s0.gifyu.com/images/Captura-de-pantalla-2019-08-26-a-las-20.57.32.png "Weather App")
+
 ## Justificación
 Las siguientes pruebas buscan probar los conocimiento intermedios sobre:
 - JavaScript 
@@ -90,7 +93,11 @@ La aplicación de clima debe poder recordar al recargar la ultima ciudad selecci
 
 ### Maqueta
 Todos los elementos los encuentras en las librerías previamente mencionadas. Para accesar a la maqueta puedes usar el siguiente enlace:
- [https://sketch.cloud/s/OWqrm](https://sketch.cloud/s/OWqrm) 
+ [https://sketch.cloud/s/OWqrm](https://sketch.cloud/s/OWqrm)
+
+
+### Fuente
+https://fonts.google.com/specimen/Quicksand
 
 
 ### Entrega
