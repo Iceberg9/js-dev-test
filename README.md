@@ -3,7 +3,7 @@
 ![Weather App](https://s0.gifyu.com/images/Captura-de-pantalla-2019-08-26-a-las-20.57.32.png "Weather App")
 
 ## Justificación
-Las siguientes pruebas buscan probar los conocimiento intermedios sobre:
+Se buscan probar los conocimiento intermedios sobre:
 - JavaScript 
 - HTML
 - CSS
